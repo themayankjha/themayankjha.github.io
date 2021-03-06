@@ -1,0 +1,26 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer-top">
+          <h2 class="logo-title">
+            <a href="{{site.baseurl}}/" class="logo-text">Stux Society.</a>
+          </h2>
+          <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
+        </div>
+        <div class="footer-bottom">
+          <div class="copyright">
+            <p>&copy; {{site.time | date: '%Y'}} Mayank Jha</a></p>
+          </div>
+          <div class="footer-social">
+            <ul class="list-reset">
+              {% if site.github %}
+              <li><a href="{{ site.github }}">Github</a></li>
+              {% else %} {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /.footer -->

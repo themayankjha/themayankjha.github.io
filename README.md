@@ -37,6 +37,6 @@ You are free to use this modified version of the theme instead of the original.
 
 Copyright (c) 2021 [Mayank Jha](https://github.com/themayankjha)
 
-License - [MIT](License.md)
+License - [MIT](LICENSE.md)
 
 ---

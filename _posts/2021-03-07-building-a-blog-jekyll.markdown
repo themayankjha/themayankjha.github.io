@@ -12,17 +12,20 @@ I looked for options and came across loads of javascript-based solutions that co
 But javascript being javascript scares me to death. I don't know why but javascript tends to be completely understandable and unintelligible at the same time. Hence this site uses the beloved ruby on rails' static site framework 'Jekyll'.
 
 ### Building the Site
-We need to set up the Ruby development environment with jekyll. Since I run Arch pacman is my pakage manager but for other you can easily substitite your own package manager. 
-* Install Ruby and Dev packages and then Install Jekyll{% highlight text%}
+
+We need to set up the Ruby development environment with jekyll. Since I run Arch's pacman is my pakage manager but for other you can easily substitite your own package manager.
+
+* Install Ruby and Dev packages and then Install Jekyll
+{% highlight sh%}
 $ sudo pacman -S ruby base-devel
 $ gem install jekyll bundler
 {% endhighlight %}
 * Clone the theme from [here](https://github.com/artemsheludko/galada.git)
-{% highlight text%}
+{% highlight sh%}
 $ git clone https://github.com/artemsheludko/galada.git
 {% endhighlight %}
 * Switch to the cloned folder and run the following
-{% highlight text%}
+{% highlight sh%}
 $ bundle install
 $ bundle update
 $ bundle exec jekyll serve --livereload
@@ -31,6 +34,7 @@ $ bundle exec jekyll serve --livereload
 Now you have a website up and running on your localhost.
 
 ### Configuring
+
 The theme has a lot of code that I did not wish to use on this website so I did some cleaning up and removed Disqus comments and added some personalized things here and there.
 
 You are free to use this modified version of the theme instead of the original.

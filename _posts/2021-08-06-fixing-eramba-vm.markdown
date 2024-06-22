@@ -2,8 +2,8 @@
 layout: post
 title:  Fixing Eramba's Virtual Machine
 date:   2021-08-06 08:30:00 +0530
-image:  eramba.jpg
-tags:   [How-to,Infosec,Tutorial]
+image:  wolf.jpg
+tags:   [Tutorial,Infosec,Fixes,Eramba GRC]
 ---
 
 Recently I was introduced to Eramba during my Information Security & Governance course at my University. Eramba is an Open GRC tool that helps with compliance, risk management, control testing, exception management, etc. We then set up a VM using the Virtual machine builds provided by the official website to act as a server, enabling it to be easily accessible.

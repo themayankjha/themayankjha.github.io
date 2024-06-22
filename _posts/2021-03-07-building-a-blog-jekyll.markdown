@@ -2,8 +2,8 @@
 layout: post
 title:  This is how I built Stux Society using Jekyll.
 date:   2021-03-07 01:40:00 +0530
-image:  jekyll.jpg
-tags:   [Tutorial,Blog,Jekyll]
+image:  laptop.jpg
+tags:   [Tutorial,Devlopment,Jekyll]
 ---
 
 Using Jekyll came out after long thinking about what I wanted to accomplish. I wanted to have a blog set up but did not want to pay for any overheads.

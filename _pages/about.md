@@ -17,9 +17,8 @@ Freedom is thus an illusion.
 
 
 {% highlight txt%}
-> I'm Mayank aka Lex.
+> I'm Lex.
 > I love to build awesome things.
-> It's great to see you here.
+> I pen down my thoughts and experiments here. You are welcome to read and interpret them.
 {% endhighlight %}
 
-I pen down my thoughts and experiments here. You are welcome to read and interpret them.

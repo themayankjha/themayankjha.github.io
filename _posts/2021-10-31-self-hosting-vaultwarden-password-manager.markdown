@@ -3,7 +3,7 @@ layout: post
 title:  Self Hosting Vaultwarden Password Manager On A Linux Server
 date:   2021-10-31 09:31:00 +0530
 image:  woman.jpg
-tags:   [Tutorial,Self-Hosting]
+tags:   [Tutorial,Self-Hosting,VaultWarden]
 ---
 
 I have been using Firefox's inbuilt password manager for quite some time and was quite happy with how it worked. However I recently received alerts from various accounts regarding suspicious login attempts from various places I have never been, so I started looking for something more secure and feature-rich and learned about bitwarden. I got my hands on the oracle cloud free-tier and was able to spin up a compute instance and since it fit the bill, I decided to use it as the host for my password manager.
